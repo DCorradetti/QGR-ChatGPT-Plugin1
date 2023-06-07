@@ -10,7 +10,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://plankton-app-citxc.ondigitalocean.app/",
+    "url": "https://plankton-app-citxc.ondigitalocean.app/.well-known/openapi.yaml",
     "has_user_authentication": false
   },
   "logo_url": "https://plankton-app-citxc.ondigitalocean.app/.well-known/logo.png",
