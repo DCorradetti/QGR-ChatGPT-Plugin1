@@ -1,10 +1,10 @@
 openapi: 3.0.2
 info:
-  title: QGR Plugin
-  description: A plugin that allows the user to search QGR documentation.
-  version: 'v1'
-servers:
-  - url: https://plankton-app-citxc.ondigitalocean.app/
+  title: QGR Plugin API
+  description: A QGR retrieval API for querying and filtering documents based on natural language queries and metadata
+  version: 1.0.0
+  servers:
+    - url: https://plankton-app-citxc.ondigitalocean.app/
 paths:
   /query:
     post:
